@@ -12,6 +12,7 @@
         int del = agility / agilityBoost;
         int jjj = agility * agilityBoost;
         int ggg = agility % agilityBoost;
+        //тестовый текст
 
         if (totalAgility == 121) {
             Console.WriteLine("loh");
